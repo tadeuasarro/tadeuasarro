@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there!
+
+My name is Tadeu, I'm a fullstack developer. Welcome to my Github profile!
 
 <!--
 **tadeuasarro/tadeuasarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
