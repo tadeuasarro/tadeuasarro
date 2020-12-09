@@ -1,5 +1,7 @@
 ### Osu! Ora Tadeu! (Hi! I am Tadeu!)
 
+I'm a young full-stack web developer. Please feel free to browse through my work and reach out to me regarding partnerships!
+
 <br>
 <p align="center">
 	<a href="https://github.com/tadeuasarro"><img src="https://img.shields.io/github/followers/tadeuasarro.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -7,4 +9,3 @@
 	<a href="https://www.linkedin.com/in/tadeuasarro"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-# Visit my [portfolio!](https://tadeuasarro.web.app/)
