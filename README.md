@@ -2,9 +2,6 @@
 
 I'm a young full-stack web developer. Please feel free to browse through my work and reach out to me regarding partnerships!
 
-[![Tadeu's github stats](https://github-readme-stats.vercel.app/api?username=tadeuasarro&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/tadeuasarro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeuasarro&show_icons=true&layout=compact&theme=vue)](https://github.com/tadeuasarro/github-readme-stats)
-
 <br>
 <p align="center">
 	<a href="https://github.com/tadeuasarro"><img src="https://img.shields.io/github/followers/tadeuasarro.svg?label=GitHub&style=social" alt="GitHub"></a>
