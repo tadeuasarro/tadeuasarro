@@ -1,6 +1,6 @@
 ### Osu! Ora Tadeu! (Hi! I am Tadeu!)
 
-I'm a young full-stack web developer. Please feel free to browse through my work and reach out to me regarding partnerships!
+I'm a full-stack web developer. Please feel free to browse through my work and reach out to me regarding partnerships!
 
 <br>
 <p align="center">
